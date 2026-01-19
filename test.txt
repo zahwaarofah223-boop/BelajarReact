@@ -1,0 +1,8 @@
+LUTFIATUZ ZAHWA AROFAH
+
+Awal inisiasi git
+1. Buat repositori di GitHub
+2. Buat folder projek di local computer/laptop
+3. Inisiasi git - git init
+4. Menambahkan file/projek ke folder projek
+5. Menambahkan perubahan file/projek ke git - git add namafile
